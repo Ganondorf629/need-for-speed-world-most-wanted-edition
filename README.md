@@ -2,7 +2,7 @@ INSTALLATION
 
 Drop the folder in C:\ProgramData\Electronic Arts
 
-Download the latest nfsw server (ATTENTION: berkay's server may contain virus, google chrome said)
+Download the latest nfsw server
 
 YOUTUBE DEMO:
 https://youtu.be/kUmDYEbsRuY
